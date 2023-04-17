@@ -1,7 +1,6 @@
-```
 
 ## Project Skeleton
-
+```
 Language Cards
 |
 |----readme.md  
@@ -24,10 +23,13 @@ Language Cards
 └── yarn.lock
 
 ```
+## Expected Outcome
 
+![Languange Card](https://github.com/ebru2541/language-card-react/blob/master/src/languange-card.gif)
+```
 ## Skills
 
-
+```
 - HTML
 
 - CSS
